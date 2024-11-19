@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "571907192480",
+    "project_id": "dylexsia-840e0",
+    "storage_bucket": "dylexsia-840e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571907192480:android:cfc965f765249f418c7bc5",
+        "android_client_info": {
+          "package_name": "com.example.dylexsia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcCAQh2ROscEJyqnGDn5WoDt85Y19HH60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
